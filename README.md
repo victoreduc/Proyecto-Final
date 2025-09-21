@@ -1,2 +1,2 @@
-# proyecto-final
-PROYECTO FINAL del Máster en Data &amp; Analytics de thePower. Realizado por: Víctor Gutiérrez
+# Proyecto Final
+Proyecto final del del Máster en Data &amp; Analytics de thePower.
